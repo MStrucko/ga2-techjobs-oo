@@ -60,9 +60,3 @@ public class Employer extends JobField {
 //    public void setValue(String aValue) {
 //        this.value = aValue;
 //    }
-//
-//
-//
-//
-//
-//}

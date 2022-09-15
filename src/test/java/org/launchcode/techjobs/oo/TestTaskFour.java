@@ -1,7 +1,4 @@
-package org.launchcode.techjobs.oo;
-
-import mockit.Expectations;
-import mockit.Mocked;
+it.Mocked;
 import mockit.Tested;
 import org.junit.Assert;
 import org.junit.Test;

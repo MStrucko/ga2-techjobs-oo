@@ -7,6 +7,15 @@ import org.junit.Test;
 import org.launchcode.techjobs.oo.test.JobTest;
 
 import java.lang.reflect.InvocationTargetException;
+package org.launchcode.techjobs.oo;
+
+import mockit.Expectations;
+import mockit.Mocked;
+import org.junit.Assert;
+import org.junit.Test;
+import org.launchcode.techjobs.oo.test.JobTest;
+
+import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 import static org.junit.Assert.assertEquals;
